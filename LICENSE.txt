@@ -1,0 +1,22 @@
+Termos de uso do Mimo Studio
+Copyright (c) 2026 Adrian Lucelo Silva de Jesus. Todos os direitos reservados.
+
+1. Uso permitido
+   Você pode baixar, instalar e usar o Mimo Studio gratuitamente, para uso pessoal ou em igrejas e organizações
+   religiosas, em quantos computadores precisar.
+
+2. O que não é permitido
+   Sem autorização por escrito do titular, é proibido: (a) vender, alugar ou sublicenciar o software; (b) redistribuí-lo
+   ou publicá-lo em outros locais como se fosse seu; (c) modificá-lo, descompilá-lo, fazer engenharia reversa ou tentar
+   extrair o código-fonte; (d) remover avisos de direitos autorais.
+
+3. Componentes de terceiros
+   O software utiliza componentes de terceiros, cada um sob a sua própria licença, que continua valendo para eles.
+
+4. Conteúdo do usuário
+   O Mimo Studio não inclui textos bíblicos nem letras de música. Os arquivos e textos que você adicionar são de sua
+   responsabilidade, inclusive quanto aos direitos autorais.
+
+5. Sem garantia
+   O software é fornecido "no estado em que se encontra", sem garantias de qualquer tipo. O titular não se responsabiliza
+   por danos decorrentes do uso do software.
